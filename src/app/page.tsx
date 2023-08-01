@@ -155,8 +155,8 @@ export default function Home() {
                 <p><i>A startup company focuses on edutech. We build the education products to enhance the online learning experiences.</i></p>
                 <ul className="pl-4 list-disc">
                   <li>Designed and implemented robust infrastructure and service architecture, ensuring scalability, reliability, and optimal performance of systems.</li>
-                  <li>Planned and executed website ican.vn's maintenance activities, ensuring its smooth operation and uninterrupted availability to users.</li>
-                  <li>Collaborated closely with the product team to breakdown project tasks and requirements, effectively aligning the backend team's efforts with the overall project goals.</li>
+                  <li>Planned and executed website ican.vn maintenance activities, ensuring its smooth operation and uninterrupted availability to users.</li>
+                  <li>Collaborated closely with the product team to breakdown project tasks and requirements, effectively aligning the backend team&apos;s efforts with the overall project goals.</li>
                   <li>Provided expert guidance on business models and technical problem-solving, enabling the team to make informed decisions and overcome challenges effectively.
                   </li>
 
@@ -177,7 +177,7 @@ export default function Home() {
 
                 <span className='font-bold'>Devops / Backend Lead - 03/2018 to 03/2020 </span>
                 <i>Project: Kegmil</i>
-                <p><i>Kegmil is a cutting-edge SaaS-based platform designed specifically for companies in the Southeast Asian (SEA) region to efficiently manage field services operations. The platform enables seamless resource management by overseeing assets, workers' activities, scheduling, dispatching jobs, optimizing routing, and incorporating IoT-based maintenance solutions. The project was executed by a highly skilled team of 4 members.</i></p>
+                <p><i>Kegmil is a cutting-edge SaaS-based platform designed specifically for companies in the Southeast Asian (SEA) region to efficiently manage field services operations. The platform enables seamless resource management by overseeing assets, workers activities, scheduling, dispatching jobs, optimizing routing, and incorporating IoT-based maintenance solutions. The project was executed by a highly skilled team of 4 members.</i></p>
                 <ul className="pl-4 list-disc">
                   <li>Organized daily stand-up meetings to ensure effective communication and collaboration within the team.</li>
                   <li>Managed the infrastructure on AWS, Operated the kubernetes orchestration, which used Infrastructure as Code.</li>
