@@ -136,8 +136,9 @@ export default function Home() {
             <div className='flex flex-col space-y-4'>
               <div className='flex flex-col space-y-2'>
                 <h4 className='heading'>Hello Health Group, HCMC</h4>
-                <span className='font-bold'>Technical Lead/Solution Architect - 08/2022 to 03/2023 </span>
+                <span className='font-bold'>Backend Lead/Solution Architect - 08/2022 to 03/2023 </span>
                 <p><i>A healthcare startup company is working on digital marketing and content. We build the services support for health care market.</i></p>
+                <p><i><b>Lead team size: </b>10 members</i></p>
                 <ul className="pl-4 list-disc">
                   <li>Proficiently led a small-sized backend team, effectively guiding and managing their efforts.</li>
                   <li>Restructured and reorganized legacy architecture using BFF architecture and microservices, enhancing system efficiency and maintainability.</li>
@@ -156,6 +157,7 @@ export default function Home() {
                 <h4 className='heading'>Galaxy Education, HCMC</h4>
                 <span className='font-bold'>Technical Lead - 03/2021 to 05/2022 </span>
                 <p><i>A startup company focuses on edutech. We build the education products to enhance the online learning experiences.</i></p>
+                <p><i><b>Lead Teamsize: </b>6 members</i></p>
                 <ul className="pl-4 list-disc">
                   <li>Designed and implemented robust infrastructure and service architecture, ensuring scalability, reliability, and optimal performance of systems.</li>
                   <li>Planned and executed website ican.vn maintenance activities, ensuring its smooth operation and uninterrupted availability to users.</li>
@@ -186,7 +188,8 @@ export default function Home() {
                 <h4 className='heading'>Zamo, HCMC</h4>
                 <span className='font-bold'>Devops / Backend Lead - 03/2018 to 03/2020 </span>
                 <i>Project: Kegmil</i>
-                <p><i>Kegmil is a cutting-edge SaaS-based platform designed specifically for companies in the Southeast Asian (SEA) region to efficiently manage field services operations. The platform enables seamless resource management by overseeing assets, workers activities, scheduling, dispatching jobs, optimizing routing, and incorporating IoT-based maintenance solutions. The project was executed by a highly skilled team of 4 members.</i></p>
+                <p><i>Kegmil is a cutting-edge SaaS-based platform designed specifically for companies in the Southeast Asian (SEA) region to efficiently manage field services operations. The platform enables seamless resource management by overseeing assets, workers activities, scheduling, dispatching jobs, optimizing routing, and incorporating IoT-based maintenance solutions.</i></p>
+                <p><i><b>Lead team size: </b>4 members</i></p>
                 <ul className="pl-4 list-disc">
                   <li>Organized daily stand-up meetings to ensure effective communication and collaboration within the team.</li>
                   <li>Managed the infrastructure on AWS, Operated the kubernetes orchestration, which used Infrastructure as Code.</li>
@@ -249,7 +252,7 @@ export default function Home() {
                 <ul className="pl-4 list-disc">
                   <li>Experienced microservices and event sourcing.</li>
                   <li>Improved the performance of the LBS service from 300-500ms to ~100ms.</li>
-                  <li>The service handled hundreds of requests per second.</li>
+                  <li>Ensured the services can handle hundreds of requests per second.</li>
                   <li>Built queries for campaign filtering.</li>
                 </ul>
               </div>
