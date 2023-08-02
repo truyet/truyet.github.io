@@ -1,7 +1,5 @@
 import Image from 'next/image'
-import { Ovo, Lato } from 'next/font/google'
 
-const ovo = Ovo({ subsets: ['latin'], weight: "400" })
 
 export default function Home() {
   return (
@@ -17,7 +15,7 @@ export default function Home() {
           />
         </div>
         <div className={`w-full flex flex-col`}>
-          <div className={`${ovo.className}`}>
+          <div >
             <div className='lg:pr-12'>
               <h1>TRUYET NGUYEN</h1>
               <h2 className='pt-4'> Backend Lead / Technical Lead</h2>
@@ -34,7 +32,7 @@ export default function Home() {
       </div>
       <div className='pt-10 flex flex-col'>
         <div className='flex flex-col space-y-4'>
-          <h3 className={`${ovo.className} heading`}>Summary</h3>
+          <h3 className={`heading`}>Summary</h3>
           <p>I am a seasoned backend engineer with over a decade of experience in software engineering. I have a strong focus on microservices architecture and am proficient in designing, developing, testing, maintaining, and optimizing distributed systems. I have a particular emphasis on high-performance services.</p>
 
           <p>I have also worked as a full-stack developer, a DevOps engineer, and a solution architect. In my role as a DevOps engineer, I have experience with CI/CD, Kubernetes, and infrastructure on AWS. I am also familiar with GKE and the Cloud Native Foundation. This gives me a unique perspective on the software development process, and I am able to bridge the gap between the different teams involved.</p>
@@ -46,7 +44,7 @@ export default function Home() {
       <div className='pt-10 flex flex-col'>
         <div className='flex flex-col space-y-4'>
           <section className='flex flex-col space-y-2'>
-            <h3 className={`${ovo.className} heading`}>Education & Certifications</h3>
+            <h3 className={`heading`}>Education & Certifications</h3>
             <div>
               <ul className="pl-4 list-disc">
                 <li>Bachelor of Information Technology (2006-2010) - An Giang University</li>
@@ -54,17 +52,17 @@ export default function Home() {
             </div>
           </section>
           <section className='flex flex-col space-y-2'>
-            <h3 className={`${ovo.className} heading`}>Skills</h3>
+            <h3 className={`heading`}>Skills</h3>
             <div className="grid lg:grid-cols-2 gap-4">
               <div>
-                <h4 className={`${ovo.className} heading`}>Programming Languages</h4>
+                <h4 className={` heading`}>Programming Languages</h4>
                 <ul className="pl-4 list-disc">
                   <li>Java, Golang, Scala, Nodejs, Python.</li>
                   <li>Typescript, Javascript, HTML5, CSS3.</li>
                 </ul>
               </div>
               <div>
-                <h4 className={`${ovo.className} heading`}>Development Frameworks</h4>
+                <h4 className={` heading`}>Development Frameworks</h4>
                 <ul className="pl-4 list-disc">
                   <li><b>Backend Development:</b> Spring Framework, Spring Reactive, Spring Boot, Hibernate, Spring JPA, Spring R2DBC, NestJS, go-kratos, ...</li>
                   <li><b>Frontend Development:</b> ReactJS, Vue, Next, Nuxt, React Native, ...</li>
@@ -74,7 +72,7 @@ export default function Home() {
             </div>
             <div className="grid lg:grid-cols-2 gap-4">
               <div>
-                <h4 className={`${ovo.className} heading`}>Data Storage</h4>
+                <h4 className={` heading`}>Data Storage</h4>
                 <ul className="pl-4 list-disc">
                   <li><b>RDBMS:</b> Postgresql, Mysql, MariaDB.</li>
                   <li><b>NoSQL:</b> MongoDB, Cassandra, Neo4j, Key-Value. </li>
@@ -84,7 +82,7 @@ export default function Home() {
                 </ul>
               </div>
               <div>
-                <h4 className={`${ovo.className} heading`}>Event / Streaming Queue</h4>
+                <h4 className={` heading`}>Event / Streaming Queue</h4>
                 <ul className="pl-4 list-disc">
                   <li><b>Message Queue:</b> RabbitMQ, Redis Pub/Sub, AWS SES.</li>
                   <li><b>Streaming:</b> Kafka, Apache Pulsar.</li>
@@ -93,7 +91,7 @@ export default function Home() {
             </div>
             <div className="grid lg:grid-cols-2 gap-4">
               <div>
-                <h4 className={`${ovo.className} heading`}>Operations</h4>
+                <h4 className={` heading`}>Operations</h4>
                 <ul className="pl-4 list-disc">
                   <li><b>Cloud:</b> AWS, GCP.</li>
                   <li>Kubernetes Orchestration on AWS, GCP and On Primise.</li>
@@ -102,7 +100,7 @@ export default function Home() {
                 </ul>
               </div>
               <div>
-                <h4 className={`${ovo.className} heading`}>Design & Architects</h4>
+                <h4 className={` heading`}>Design & Architects</h4>
                 <ul className="pl-4 list-disc">
                   <li>API Interface: RESTful API,  Protobuf</li>
                   <li><b>Protocol:</b>HTTP, gRPC, Websocket, TCP Socket.</li>
@@ -114,7 +112,7 @@ export default function Home() {
             </div>
             <div className="grid lg:grid-cols-2 gap-4">
               <div>
-                <h4 className={`${ovo.className} heading`}>Methodology & Tools</h4>
+                <h4 className={` heading`}>Methodology & Tools</h4>
                 <ul className="pl-4 list-disc">
                   <li>Familiar with Agile Methodology </li>
                   <li>Familiar with Scrum & Kaban processes</li>
@@ -123,7 +121,7 @@ export default function Home() {
                 </ul>
               </div>
               <div>
-                <h4 className={`${ovo.className} heading`}>Soft Skills</h4>
+                <h4 className={` heading`}>Soft Skills</h4>
                 <ul className="pl-4 list-disc">
                   <li>Product Mindset</li>
                   <li>Problem-solving</li>
@@ -134,7 +132,7 @@ export default function Home() {
             </div>
           </section>
           <section className='flex flex-col space-y-2'>
-            <h3 className={`${ovo.className} heading`}>Work Experiences</h3>
+            <h3 className={` heading`}>Work Experiences</h3>
             <div className='flex flex-col space-y-4'>
               <div className='flex flex-col space-y-2'>
                 <h4 className='heading'>Hello Health Group, HCMC</h4>
