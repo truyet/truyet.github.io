@@ -84,7 +84,7 @@ export default function Home() {
               <div>
                 <h4 className={` heading`}>Message & Streaming Queue</h4>
                 <ul className="pl-4 list-disc">
-                  <li><b>Message Queue:</b> Nats, RabbitMQ, ActiveMQ, Redis Pub/Sub, AWS SES.</li>
+                  <li><b>Message Queue:</b> NATs, RabbitMQ, ActiveMQ, Redis Pub/Sub, AWS SES.</li>
                   <li><b>Streaming:</b> Kafka, Apache Pulsar.</li>
                 </ul>
               </div>
@@ -136,7 +136,6 @@ export default function Home() {
             <div className='flex flex-col space-y-4'>
               <div className='flex flex-col space-y-2'>
                 <h4 className='heading'>Hello Health Group, HCMC</h4>
-
                 <span className='font-bold'>Technical Lead/Solution Architect - 08/2022 to 03/2023 </span>
                 <p><i>A healthcare startup company is working on digital marketing and content. We build the services support for health care market.</i></p>
                 <ul className="pl-4 list-disc">
@@ -145,6 +144,12 @@ export default function Home() {
                   <li>Designed a robust Data Pipeline Platform, laying the foundation for the development of a cutting-edge CDP platform.</li>
                   <li>Collaborated closely with the backend team to ensure strict adherence to recommended architecture and proposed efficient workflows for backend development.</li>
                   <li>Expertly designed and developed secure authentication services, adhering to the Oauth2 protocol with Ory Hydra, as well as user service to enhance user experiences and data security.</li>
+                </ul>
+                <p><span className='font-bold'>Technologies:</span> Golang, Reactjs, Nextjs, PostgreSQL, Kafka, RabbitMQ, Microservices, Opensources. </p>
+                <p><span className='font-bold'>Achievements:</span></p>
+                <ul className="pl-4 list-disc">
+                  <li>Proposed solution architect to build CDP.</li>
+                  <li>Proposed & Implemented the Golang framework to work in backend team</li>
                 </ul>
               </div>
               <div className='flex flex-col space-y-2'>
@@ -157,7 +162,13 @@ export default function Home() {
                   <li>Collaborated closely with the product team to breakdown project tasks and requirements, effectively aligning the backend team&apos;s efforts with the overall project goals.</li>
                   <li>Provided expert guidance on business models and technical problem-solving, enabling the team to make informed decisions and overcome challenges effectively.
                   </li>
-
+                </ul>
+                <p><span className='font-bold'>Technologies:</span> Golang, Reactjs, Nextjs, PostgreSQL, Kafka, RabbitMQ, Microservices, Opensources. </p>
+                <p><span className='font-bold'>Achievements:</span></p>
+                <ul className="pl-4 list-disc">
+                  <li>Proposed technical to build website SEO effectively</li>
+                  <li>Backend Architect used for ICAN App</li>
+                  <li>Solution for SSO & Oauth2 system called ID</li>
                 </ul>
               </div>
               <div className='flex flex-col space-y-2'>
@@ -169,10 +180,10 @@ export default function Home() {
                   <li>Successfully led the migration process of legacy code from Java to Golang, streamlining codebase and improving system efficiency.</li>
                   <li>Development & Enhancement the Backend and Frontend of Patient Profiles, Promotion & Campaigns services</li>
                 </ul>
+                <p><span className='font-bold'>Technologies:</span> Java, Golang, Reactjs, PostgreSQL, Kafka, NATs, Microservices, Opensources. </p>
               </div>
               <div className='flex flex-col space-y-2'>
                 <h4 className='heading'>Zamo, HCMC</h4>
-
                 <span className='font-bold'>Devops / Backend Lead - 03/2018 to 03/2020 </span>
                 <i>Project: Kegmil</i>
                 <p><i>Kegmil is a cutting-edge SaaS-based platform designed specifically for companies in the Southeast Asian (SEA) region to efficiently manage field services operations. The platform enables seamless resource management by overseeing assets, workers activities, scheduling, dispatching jobs, optimizing routing, and incorporating IoT-based maintenance solutions. The project was executed by a highly skilled team of 4 members.</i></p>
@@ -180,11 +191,20 @@ export default function Home() {
                   <li>Organized daily stand-up meetings to ensure effective communication and collaboration within the team.</li>
                   <li>Managed the infrastructure on AWS, Operated the kubernetes orchestration, which used Infrastructure as Code.</li>
                   <li>Designed the system solution providing REST, gRPC, webapp on AWS and K8s</li>
-                  <li>Built the project template & CI/CD flow base on GitOps and containerized.</li>
+                  <li>Built the project template & CI/CD flow utilized GitOps and containerized.</li>
                   <li>Set up the services mesh & monitoring system.</li>
                   <li>Conducted thorough research and designed innovative workflows and IOT Platform proposals, presenting them to the CTO for review and approval.</li>
                   <li>Actively supported backend code development and maintenance.</li>
                   <li>Focused on adapting the system for multi-tenant support and conducted thorough research on BPMN 2.0 workflow, multi-tenant database architecture, serverless functions, and Cloud Native Software ecosystems for Kubernetes.</li>
+                </ul>
+                <p><span className='font-bold'>Technologies:</span> Java, Kubernetes, Gitlab CI, Terraform, AWS Cloud, Services Mesh, PostgreSQL, Apache Pulsar, Microservices, Containerized, Opensources. </p>
+                <p><span className='font-bold'>Achievements:</span></p>
+                <ul className="pl-4 list-disc">
+                  <li>Built Infrastructure on AWS Cloud with IaC.</li>
+                  <li>Design & Implementation the CI/CD flow.</li>
+                  <li>Optimized AWS costing & Trace Java JDK 8 Containerized Memory issue.</li>
+                  <li>Operation & Management service on Kubernetes.</li>
+                  <li>IoT Dataflow Architect utilized AWS IoT and Serverless.</li>
                 </ul>
               </div>
               <div className='flex flex-col space-y-2'>
@@ -196,6 +216,7 @@ export default function Home() {
                   <li>Assisted the data team in upgrading the admin website, implementing new features and improvements smoothly.</li>
                   <li>Involved analysis process, utilizing Spark Streaming and Kafka to enable real-time data processing and insights.</li>
                 </ul>
+                <p><span className='font-bold'>Technologies:</span> Java, Scala. Kafka, Spark. </p>
               </div>
               <div className='flex flex-col space-y-2'>
                 <h4 className='heading'>Lunex Telecom, HCM</h4>
@@ -207,7 +228,7 @@ export default function Home() {
                   <li>Designed and created the Internal Admin Site using Python and Django, providing a user-friendly interface for efficient internal operations.</li>
                   <li>Assisted the backend team in building and maintaining API services based on Java and SpringBoot, ensuring seamless integration with other modules and external systems.
                   </li>
-
+                  <p><span className='font-bold'>Technologies:</span> Python, Java, Django, Bottle, Microservices. </p>
                 </ul>
               </div>
               <div className='flex flex-col space-y-2'>
@@ -222,6 +243,14 @@ export default function Home() {
                   <li>Led the development of a Campaign Service that supports the marketing team in setting rules for delivering targeted advertisements to users on Zalo.
                   </li>
                   <li>Provided expert support and maintenance for the Zalo API server in collaboration with the team.</li>
+                </ul>
+                <p><span className='font-bold'>Technologies:</span> Java, Linux, Microservices. </p>
+                <p><span className='font-bold'>Achievements:</span></p>
+                <ul className="pl-4 list-disc">
+                  <li>Experienced microservices and Eventsourcing.</li>
+                  <li>Improved Performance of LBS service from 300-500ms to ~100ms.</li>
+                  <li>Service handled hundreds requests per second.</li>
+                  <li>Queries builder for Campaign filter.</li>
                 </ul>
               </div>
               <div className='flex flex-col space-y-2'>
