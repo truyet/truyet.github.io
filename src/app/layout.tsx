@@ -5,8 +5,8 @@ import { Lato } from 'next/font/google'
 const inter = Lato({ subsets: ['latin'], weight: ["300","400", "700", "900"] })
 
 export const metadata: Metadata = {
-  title: 'Truyet Nguyen resume',
-  description: 'Backend Engineer, Golang, Java, Nodejs, DevOps, CICD, Leader, Architecture',
+  title: 'Truyet Nguyen - Backend Engineer',
+  description: 'Backend Engineer, Golang, Java, Nodejs, DevOps, CICD, Leader, Architecture, Technical',
 }
 
 export default function RootLayout({
