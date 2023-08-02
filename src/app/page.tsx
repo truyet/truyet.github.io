@@ -148,8 +148,8 @@ export default function Home() {
                 <p><span className='font-bold'>Technologies:</span> Golang, Reactjs, Nextjs, PostgreSQL, Kafka, RabbitMQ, Microservices, Opensources. </p>
                 <p><span className='font-bold'>Achievements:</span></p>
                 <ul className="pl-4 list-disc">
-                  <li>Proposed solution architect to build CDP.</li>
-                  <li>Proposed & Implemented the Golang framework to work in backend team</li>
+                  <li>Proposed a solution architecture to build CDP.</li>
+                  <li>Proposed and implemented a Golang framework to work in the backend team.</li>
                 </ul>
               </div>
               <div className='flex flex-col space-y-2'>
@@ -166,9 +166,9 @@ export default function Home() {
                 <p><span className='font-bold'>Technologies:</span> Golang, Reactjs, Nextjs, PostgreSQL, Kafka, RabbitMQ, Microservices, Opensources. </p>
                 <p><span className='font-bold'>Achievements:</span></p>
                 <ul className="pl-4 list-disc">
-                  <li>Proposed technical to build website SEO effectively</li>
-                  <li>Backend Architect used for ICAN App</li>
-                  <li>Solution for SSO & Oauth2 system called ID</li>
+                  <li>Proposed technical solutions to build website SEO effectively.</li>
+                  <li>Acted as Backend Architect for the ICAN App.</li>
+                  <li>Developed a solution for SSO & OAuth2 system called ID (Identity System).</li>
                 </ul>
               </div>
               <div className='flex flex-col space-y-2'>
@@ -200,11 +200,11 @@ export default function Home() {
                 <p><span className='font-bold'>Technologies:</span> Java, Kubernetes, Gitlab CI, Terraform, AWS Cloud, Services Mesh, PostgreSQL, Apache Pulsar, Microservices, Containerized, Opensources. </p>
                 <p><span className='font-bold'>Achievements:</span></p>
                 <ul className="pl-4 list-disc">
-                  <li>Built Infrastructure on AWS Cloud with IaC.</li>
-                  <li>Design & Implementation the CI/CD flow.</li>
-                  <li>Optimized AWS costing & Trace Java JDK 8 Containerized Memory issue.</li>
-                  <li>Operation & Management service on Kubernetes.</li>
-                  <li>IoT Dataflow Architect utilized AWS IoT and Serverless.</li>
+                  <li>Built infrastructure on AWS Cloud with IaC.</li>
+                  <li>Designed and implemented the CI/CD flow.</li>
+                  <li>Optimized AWS costs and traced Java JDK 8 containerized memory issues.</li>
+                  <li>Operated and managed services on Kubernetes.</li>
+                  <li>Architected IoT dataflows using AWS IoT and Serverless.</li>
                 </ul>
               </div>
               <div className='flex flex-col space-y-2'>
@@ -244,13 +244,13 @@ export default function Home() {
                   </li>
                   <li>Provided expert support and maintenance for the Zalo API server in collaboration with the team.</li>
                 </ul>
-                <p><span className='font-bold'>Technologies:</span> Java, Linux, Microservices. </p>
+                <p><span className='font-bold'>Technologies:</span> Java, Linux, Microservices, Kafka. </p>
                 <p><span className='font-bold'>Achievements:</span></p>
                 <ul className="pl-4 list-disc">
-                  <li>Experienced microservices and Eventsourcing.</li>
-                  <li>Improved Performance of LBS service from 300-500ms to ~100ms.</li>
-                  <li>Service handled hundreds requests per second.</li>
-                  <li>Queries builder for Campaign filter.</li>
+                  <li>Experienced microservices and event sourcing.</li>
+                  <li>Improved the performance of the LBS service from 300-500ms to ~100ms.</li>
+                  <li>The service handled hundreds of requests per second.</li>
+                  <li>Built queries for campaign filtering.</li>
                 </ul>
               </div>
               <div className='flex flex-col space-y-2'>
