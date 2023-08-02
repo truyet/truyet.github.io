@@ -82,9 +82,9 @@ export default function Home() {
                 </ul>
               </div>
               <div>
-                <h4 className={` heading`}>Event / Streaming Queue</h4>
+                <h4 className={` heading`}>Message & Streaming Queue</h4>
                 <ul className="pl-4 list-disc">
-                  <li><b>Message Queue:</b> RabbitMQ, Redis Pub/Sub, AWS SES.</li>
+                  <li><b>Message Queue:</b> Nats, RabbitMQ, ActiveMQ, Redis Pub/Sub, AWS SES.</li>
                   <li><b>Streaming:</b> Kafka, Apache Pulsar.</li>
                 </ul>
               </div>
