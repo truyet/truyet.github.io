@@ -25,7 +25,6 @@ export default function Home() {
 
           <div className='mt-4 flex lg:flex-row lg:justify-between flex-col'>
             <span className='font-semibold text-xl'>E: minhtruyet@gmail.com</span>
-            <span className='font-semibold text-xl'>P: +84 987 288 651 </span> 
             <span className='font-semibold text-xl'>DOB: 1988</span>
           </div>
         </div>
