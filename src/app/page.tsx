@@ -134,6 +134,26 @@ export default function Home() {
             <h3 className={` heading`}>Work Experiences</h3>
             <div className='flex flex-col space-y-4'>
               <div className='flex flex-col space-y-2'>
+                <h4 className='heading'>Galaxy Finx, HCMC</h4>
+                <span className='font-bold'>Tech Lead - 09/2023 to present </span>
+                <p><i>Digital Bank and finance domain</i></p>
+                <ul className="pl-4 list-disc">
+                  <li>Lead team / technical in Lending team</li>
+                  <li>Implement feature and support</li>
+                </ul>
+                <p><span className='font-bold'>Technologies:</span> Java, SpringBoot, Kafka, Microservices </p>
+              </div>
+              <div className='flex flex-col space-y-2'>
+                <h4 className='heading'>FPT Software, HCMC</h4>
+                <span className='font-bold'>Solution Architect - 05/2023 to 09/2023 </span>
+                <p><i>Outsourcing company</i></p>
+                <ul className="pl-4 list-disc">
+                  <li>Write features document including UML diagram and implementation details</li>
+                  <li>Implement features base on document</li>
+                </ul>
+                <p><span className='font-bold'>Technologies:</span> Java, SpringBoot </p>
+              </div>
+              <div className='flex flex-col space-y-2'>
                 <h4 className='heading'>Hello Health Group, HCMC</h4>
                 <span className='font-bold'>Backend Lead/Solution Architect - 08/2022 to 03/2023 </span>
                 <p><i>A healthcare startup company is working on digital marketing and content. We build the services support for health care market.</i></p>
