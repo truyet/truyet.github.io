@@ -34,11 +34,11 @@ export default function Home() {
       <div className='pt-10 flex flex-col'>
         <div className='flex flex-col space-y-4'>
           <h3 className={`heading text-2xl font-bold border-b pb-2`}>Summary</h3>
-          <p>I&apos;m a backend engineer with over 10 years of experience in software development. I specialize in microservices architecture and building high-performance distributed systems.</p>
+          <p>I am a backend engineer with over 10 years of experience building software. I focus on microservices and high-performance systems that can handle heavy loads.</p>
 
-          <p>My experience spans full-stack development, DevOps, and solution architecture. I have hands-on experience with CI/CD pipelines, Kubernetes, and cloud infrastructure on AWS and Google Cloud. Recently, I&apos;ve been exploring AI technologies to enhance software capabilities, including implementing intelligent automation, predictive analytics, and natural language processing solutions.</p>
+          <p>My background includes full-stack development, DevOps, and solution architecture. I work with CI/CD, Kubernetes, and cloud platforms like AWS and Google Cloud.</p>
 
-          <p>I enjoy leading teams and mentoring other developers. I&apos;m passionate about leveraging emerging technologies like generative AI and LLMs to solve complex business problems. I&apos;m committed to delivering innovative, high-quality solutions that create measurable business value.</p>
+          <p>I enjoy leading teams and helping other developers grow. I am always eager to learn new technologies, especially AI. I am very interested in AI and actively learning how to use it to make software smarter and more efficient. I believe these tools can solve complex problems in ways we couldn&apos;t before.</p>
         </div>
       </div>
 
