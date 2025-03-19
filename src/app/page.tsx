@@ -34,11 +34,11 @@ export default function Home() {
       <div className='pt-10 flex flex-col'>
         <div className='flex flex-col space-y-4'>
           <h3 className={`heading text-2xl font-bold border-b pb-2`}>Summary</h3>
-          <p>I'm a backend engineer with over 10 years of experience in software development. I specialize in microservices architecture and building high-performance distributed systems.</p>
+          <p>I&apos;m a backend engineer with over 10 years of experience in software development. I specialize in microservices architecture and building high-performance distributed systems.</p>
 
-          <p>My experience spans full-stack development, DevOps, and solution architecture. I have hands-on experience with CI/CD pipelines, Kubernetes, and cloud infrastructure on AWS and Google Cloud. Recently, I've been exploring AI technologies to enhance software capabilities, including implementing intelligent automation, predictive analytics, and natural language processing solutions.</p>
+          <p>My experience spans full-stack development, DevOps, and solution architecture. I have hands-on experience with CI/CD pipelines, Kubernetes, and cloud infrastructure on AWS and Google Cloud. Recently, I&apos;ve been exploring AI technologies to enhance software capabilities, including implementing intelligent automation, predictive analytics, and natural language processing solutions.</p>
 
-          <p>I enjoy leading teams and mentoring other developers. I'm passionate about leveraging emerging technologies like generative AI and LLMs to solve complex business problems. I'm committed to delivering innovative, high-quality solutions that create measurable business value.</p>
+          <p>I enjoy leading teams and mentoring other developers. I&apos;m passionate about leveraging emerging technologies like generative AI and LLMs to solve complex business problems. I&apos;m committed to delivering innovative, high-quality solutions that create measurable business value.</p>
         </div>
       </div>
 
@@ -159,7 +159,7 @@ export default function Home() {
                 <span className='font-bold'>Tech Lead - 09/2023 to 07/2024</span>
                 <p><i>Digital banking and finance platform</i></p>
                 <ul className="pl-4 list-disc">
-                  <li>Lead the Lending team's technical development</li>
+                  <li>Lead the Lending team&apos;s technical development</li>
                   <li>Implement lending features and provide technical support</li>
                 </ul>
                 <p><span className='font-bold'>Technologies:</span> Java, Spring Boot, Kafka, Microservices</p>
