@@ -214,6 +214,45 @@ export default function Home() {
               </div>
               
               <div className='flex flex-col space-y-2 p-4 bg-white rounded-lg shadow-sm'>
+                <h4 className='heading text-xl font-semibold'>Zoop Care, HCMC</h4>
+                <span className='font-bold'>Senior Software Engineer - 03/2020 to 03/2021</span>
+                <p><i>This is a health care product, we build a CMS for Health Care provider and an application for their customers aiming to become a leading Health Care platform in Vietnam and SEA.</i></p>
+                <ul className="pl-4 list-disc">
+                  <li>Proactively maintained and enhanced features within the applications using Java, optimizing their performance and user experience.</li>
+                  <li>Successfully led the migration process of legacy code from Java to Golang, streamlining codebase and improving system efficiency.</li>
+                  <li>Development & Enhancement the Backend and Frontend of Patient Profiles, Promotion & Campaigns services</li>
+                </ul>
+                <p><span className='font-bold'>Technologies:</span> Java, Golang, React.js, PostgreSQL, Kafka, NATS, Microservices, Opensources.</p>
+              </div>
+              
+              <div className='flex flex-col space-y-2 p-4 bg-white rounded-lg shadow-sm'>
+                <h4 className='heading text-xl font-semibold'>Zamo, HCMC</h4>
+                <span className='font-bold'>DevOps / Backend Lead - 03/2018 to 03/2020</span>
+                <i>Project: Kegmil</i>
+                <p><i>Kegmil is a cutting-edge SaaS-based platform designed specifically for companies in the Southeast Asian (SEA) region to efficiently manage field services operations. The platform enables seamless resource management by overseeing assets, workers activities, scheduling, dispatching jobs, optimizing routing, and incorporating IoT-based maintenance solutions.</i></p>
+                <p><i><b>Lead team size: </b>4 members</i></p>
+                <ul className="pl-4 list-disc">
+                  <li>Organized daily stand-up meetings to ensure effective communication and collaboration within the team.</li>
+                  <li>Managed the infrastructure on AWS, operated the Kubernetes orchestration, which used Infrastructure as Code.</li>
+                  <li>Designed the system solution providing REST, gRPC, webapp on AWS and K8s</li>
+                  <li>Built the project template & CI/CD flow utilized GitOps and containerized.</li>
+                  <li>Set up the services mesh & monitoring system.</li>
+                  <li>Conducted thorough research and designed innovative workflows and IoT Platform proposals, presenting them to the CTO for review and approval.</li>
+                  <li>Actively supported backend code development and maintenance.</li>
+                  <li>Focused on adapting the system for multi-tenant support and conducted thorough research on BPMN 2.0 workflow, multi-tenant database architecture, serverless functions, and Cloud Native Software ecosystems for Kubernetes.</li>
+                </ul>
+                <p><span className='font-bold'>Technologies:</span> Java, Kubernetes, GitLab CI, Terraform, AWS Cloud, Services Mesh, PostgreSQL, Apache Pulsar, Microservices, Containerized, Opensources.</p>
+                <p><span className='font-bold'>Achievements:</span></p>
+                <ul className="pl-4 list-disc">
+                  <li>Built infrastructure on AWS Cloud with IaC.</li>
+                  <li>Designed and implemented the CI/CD flow.</li>
+                  <li>Optimized AWS costs and traced Java JDK 8 containerized memory issues.</li>
+                  <li>Operated and managed services on Kubernetes.</li>
+                  <li>Architected IoT dataflows using AWS IoT and Serverless.</li>
+                </ul>
+              </div>
+              
+              <div className='flex flex-col space-y-2 p-4 bg-white rounded-lg shadow-sm'>
                 <h4 className='heading text-xl font-semibold'>VNG, HCMC - Zalo Pay</h4>
                 <span className='font-bold'>Senior Software Engineer - 10/2017 to 03/2018</span>
                 <p><i>E-wallet payment platform</i></p>
