@@ -18,7 +18,7 @@ export default function Home() {
           <div>
             <div className='lg:pr-12'>
               <h1 className="text-3xl font-bold">TRUYET NGUYEN</h1>
-              <h2 className='pt-4 text-xl'> Backend Engineer / Technical Lead</h2>
+              <h2 className='pt-4 text-xl'> Backend Lead / Technical Lead</h2>
             </div>
             <hr className='w-full my-2' />
           </div>
@@ -73,7 +73,7 @@ export default function Home() {
                 </ul>
               </div>
             </div>
-            
+
             <div className="grid lg:grid-cols-2 gap-4">
               <div>
                 <h4 className={`heading text-xl font-semibold`}>Data Storage</h4>
@@ -93,7 +93,7 @@ export default function Home() {
                 </ul>
               </div>
             </div>
-            
+
             <div className="grid lg:grid-cols-2 gap-4">
               <div>
                 <h4 className={`heading text-xl font-semibold`}>Cloud & DevOps</h4>
@@ -115,7 +115,7 @@ export default function Home() {
                 </ul>
               </div>
             </div>
-            
+
             <div className="grid lg:grid-cols-2 gap-4">
               <div>
                 <h4 className={`heading text-xl font-semibold`}>Methodology & Tools</h4>
@@ -153,7 +153,7 @@ export default function Home() {
                 </ul>
                 <p><span className='font-bold'>Technologies:</span> Java, Spring Boot, Apache Pulsar, Microservices, PostgreSQL, gRPC</p>
               </div>
-              
+
               <div className='flex flex-col space-y-2 p-4 bg-white rounded-lg shadow-sm'>
                 <h4 className='heading text-xl font-semibold'>Galaxy Finx, HCMC</h4>
                 <span className='font-bold'>Tech Lead - 09/2023 to 07/2024</span>
@@ -164,8 +164,8 @@ export default function Home() {
                 </ul>
                 <p><span className='font-bold'>Technologies:</span> Java, Spring Boot, Kafka, Microservices</p>
               </div>
-              
-              <div className='flex flex-col space-y-2 p-4 bg-white rounded-lg shadow-sm'>
+
+              {/* <div className='flex flex-col space-y-2 p-4 bg-white rounded-lg shadow-sm'>
                 <h4 className='heading text-xl font-semibold'>FPT Software, HCMC</h4>
                 <span className='font-bold'>Solution Architect - 05/2023 to 09/2023</span>
                 <p><i>IT outsourcing company</i></p>
@@ -174,8 +174,8 @@ export default function Home() {
                   <li>Implement features based on specifications</li>
                 </ul>
                 <p><span className='font-bold'>Technologies:</span> Java, Spring Boot</p>
-              </div>
-              
+              </div> */}
+
               <div className='flex flex-col space-y-2 p-4 bg-white rounded-lg shadow-sm'>
                 <h4 className='heading text-xl font-semibold'>Hello Health Group, HCMC</h4>
                 <span className='font-bold'>Backend Lead/Solution Architect - 08/2022 to 03/2023</span>
@@ -193,7 +193,7 @@ export default function Home() {
                   <li>Created Golang framework for backend development</li>
                 </ul>
               </div>
-              
+
               <div className='flex flex-col space-y-2 p-4 bg-white rounded-lg shadow-sm'>
                 <h4 className='heading text-xl font-semibold'>Galaxy Education, HCMC</h4>
                 <span className='font-bold'>Technical Lead - 03/2021 to 05/2022</span>
@@ -212,7 +212,7 @@ export default function Home() {
                   <li>Developed SSO & OAuth2 identity system</li>
                 </ul>
               </div>
-              
+
               <div className='flex flex-col space-y-2 p-4 bg-white rounded-lg shadow-sm'>
                 <h4 className='heading text-xl font-semibold'>Zoop Care, HCMC</h4>
                 <span className='font-bold'>Senior Software Engineer - 03/2020 to 03/2021</span>
@@ -224,7 +224,7 @@ export default function Home() {
                 </ul>
                 <p><span className='font-bold'>Technologies:</span> Java, Golang, React.js, PostgreSQL, Kafka, NATS, Microservices, Opensources.</p>
               </div>
-              
+
               <div className='flex flex-col space-y-2 p-4 bg-white rounded-lg shadow-sm'>
                 <h4 className='heading text-xl font-semibold'>Zamo, HCMC</h4>
                 <span className='font-bold'>DevOps / Backend Lead - 03/2018 to 03/2020</span>
@@ -251,7 +251,7 @@ export default function Home() {
                   <li>Architected IoT dataflows using AWS IoT and Serverless.</li>
                 </ul>
               </div>
-              
+
               <div className='flex flex-col space-y-2 p-4 bg-white rounded-lg shadow-sm'>
                 <h4 className='heading text-xl font-semibold'>VNG, HCMC - Zalo Pay</h4>
                 <span className='font-bold'>Senior Software Engineer - 10/2017 to 03/2018</span>
@@ -263,7 +263,7 @@ export default function Home() {
                 </ul>
                 <p><span className='font-bold'>Technologies:</span> Java, Scala, Kafka, Apache Spark</p>
               </div>
-              
+
               <div className='flex flex-col space-y-2 p-4 bg-white rounded-lg shadow-sm'>
                 <h4 className='heading text-xl font-semibold'>Lunex Telecom, HCMC</h4>
                 <span className='font-bold'>Senior Software Engineer - 08/2015 to 10/2017</span>
@@ -276,7 +276,7 @@ export default function Home() {
                 </ul>
                 <p><span className='font-bold'>Technologies:</span> Python, Java, Django, Bottle, Microservices</p>
               </div>
-              
+
               <div className='flex flex-col space-y-2 p-4 bg-white rounded-lg shadow-sm'>
                 <h4 className='heading text-xl font-semibold'>VNG, HCMC - Zalo</h4>
                 <span className='font-bold'>Software Engineer - 02/2012 to 10/2014</span>
@@ -296,7 +296,7 @@ export default function Home() {
                   <li>Implemented efficient campaign filtering queries</li>
                 </ul>
               </div>
-              
+
               <div className='flex flex-col space-y-2 p-4 bg-white rounded-lg shadow-sm'>
                 <h4 className='heading text-xl font-semibold'>Individual Systems Co.Ltd, HCMC</h4>
                 <span className='font-bold'>Software Engineer - 05/2011 to 01/2012</span>
@@ -308,7 +308,7 @@ export default function Home() {
                 </ul>
                 <p><span className='font-bold'>Technologies:</span> C#, ASP.NET MVC, SQL Server</p>
               </div>
-              
+
               <div className='flex flex-col space-y-2 p-4 bg-white rounded-lg shadow-sm'>
                 <h4 className='heading text-xl font-semibold'>GMS, Can Tho</h4>
                 <span className='font-bold'>Software Engineer - 05/2010 to 04/2011</span>
