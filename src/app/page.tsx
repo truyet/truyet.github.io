@@ -149,9 +149,15 @@ export default function Home() {
                   <li>Lead the technical development of Kegmil Core in Java</li>
                   <li>Develop new features and improve system stability</li>
                   <li>Upgrade Java and Spring Boot to newer versions</li>
-                  <li>Research and implement AI solutions</li>
+                  <li>Research and implement AI solutions for dev team</li>
                 </ul>
                 <p><span className='font-bold'>Technologies:</span> Java, Spring Boot, Apache Pulsar, Microservices, PostgreSQL, gRPC</p>
+                <p><span className='font-bold'>Achievements:</span></p>
+                <ul className="pl-4 list-disc">
+                  <li>Upgrade Java 8 to Java 21 and Spring Boot 2.1 to Spring Boot 2.7. Planning to upgrade to Spring Boot 3</li>
+                  <li>Improve system performance and stability more than 3 times</li>
+                  <li></li>
+                </ul>
               </div>
 
               <div className='flex flex-col space-y-2 p-4 bg-white rounded-lg shadow-sm'>
@@ -163,6 +169,11 @@ export default function Home() {
                   <li>Implement lending features and provide technical support</li>
                 </ul>
                 <p><span className='font-bold'>Technologies:</span> Java, Spring Boot, Kafka, Microservices</p>
+                <p><span className='font-bold'>Achievements:</span></p>
+                <ul className="pl-4 list-disc">
+                  <li>Built state machine for loan application lifecycle management</li>
+                  <li>Intergrated with external systems for credit scoring and KYC</li>
+                </ul>
               </div>
 
               {/* <div className='flex flex-col space-y-2 p-4 bg-white rounded-lg shadow-sm'>
@@ -191,6 +202,7 @@ export default function Home() {
                 <ul className="pl-4 list-disc">
                   <li>Designed CDP architecture</li>
                   <li>Created Golang framework for backend development</li>
+                  <li>Solution for OAuth2 authentication with Ory Hydra</li>
                 </ul>
               </div>
 
@@ -209,7 +221,7 @@ export default function Home() {
                 <ul className="pl-4 list-disc">
                   <li>Implemented effective SEO solutions</li>
                   <li>Served as Backend Architect for ICAN App</li>
-                  <li>Developed SSO & OAuth2 identity system</li>
+                  <li>Developed SSO & OAuth2 identity system with Ory Hydra</li>
                 </ul>
               </div>
 
@@ -223,6 +235,10 @@ export default function Home() {
                   <li>Development & Enhancement the Backend and Frontend of Patient Profiles, Promotion & Campaigns services</li>
                 </ul>
                 <p><span className='font-bold'>Technologies:</span> Java, Golang, React.js, PostgreSQL, Kafka, NATS, Microservices, Opensources.</p>
+                <p><span className='font-bold'>Achievements:</span></p>
+                <ul className="pl-4 list-disc">
+                  <li>Convert code from Java to Golang without changing business logic including e2e testing scripts. System resources usage reduced 80%-90% on startup and 60%-70% on runtime with the same requirements.</li>
+                </ul>
               </div>
 
               <div className='flex flex-col space-y-2 p-4 bg-white rounded-lg shadow-sm'>
