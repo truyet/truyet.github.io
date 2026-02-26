@@ -156,7 +156,6 @@ export default function Home() {
                 <ul className="pl-4 list-disc">
                   <li>Upgrade Java 8 to Java 21 and Spring Boot 2.1 to Spring Boot 2.7. Planning to upgrade to Spring Boot 3</li>
                   <li>Improve system performance and stability more than 3 times</li>
-                  <li></li>
                 </ul>
               </div>
 
